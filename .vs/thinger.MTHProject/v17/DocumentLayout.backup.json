@@ -1,81 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\",
+  "WorkspaceRootPath": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|d:\\users\\wq825\\desktop\\project\\thmmonitor\\thinger.mthproject\\frmusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|d:\\users\\wq825\\desktop\\project\\winform-thmmonitor\\thinger.mthproject\\frmusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|solutionrelative:thinger.mthproject\\frmusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|d:\\users\\wq825\\desktop\\project\\thmmonitor\\thinger.mthproject\\frmrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.mthproject\\frmrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|solutionrelative:thinger.mthproject\\frmrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|d:\\users\\wq825\\desktop\\project\\thmmonitor\\thinger.mthproject\\frmparamset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.mthproject\\frmparamset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|solutionrelative:thinger.mthproject\\frmparamset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|d:\\users\\wq825\\desktop\\project\\thmmonitor\\thinger.mthproject\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.mthproject\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|solutionrelative:thinger.mthproject\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|d:\\users\\wq825\\desktop\\project\\thmmonitor\\thinger.mthproject\\frmalarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.mthproject\\frmalarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|solutionrelative:thinger.mthproject\\frmalarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|d:\\users\\wq825\\desktop\\project\\thmmonitor\\thinger.mthproject\\frmhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.mthproject\\frmhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|solutionrelative:thinger.mthproject\\frmhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59FD048-2B1B-4F35-9809-EF09C8C53EE0}|thinger.MTHModels\\thinger.MTHModels.csproj|d:\\users\\wq825\\desktop\\project\\thmmonitor\\thinger.mthmodels\\variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F59FD048-2B1B-4F35-9809-EF09C8C53EE0}|thinger.MTHModels\\thinger.MTHModels.csproj|D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.mthmodels\\variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F59FD048-2B1B-4F35-9809-EF09C8C53EE0}|thinger.MTHModels\\thinger.MTHModels.csproj|solutionrelative:thinger.mthmodels\\variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59FD048-2B1B-4F35-9809-EF09C8C53EE0}|thinger.MTHModels\\thinger.MTHModels.csproj|D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.mthmodels\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F59FD048-2B1B-4F35-9809-EF09C8C53EE0}|thinger.MTHModels\\thinger.MTHModels.csproj|D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.mthmodels\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F59FD048-2B1B-4F35-9809-EF09C8C53EE0}|thinger.MTHModels\\thinger.MTHModels.csproj|solutionrelative:thinger.mthmodels\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59FD048-2B1B-4F35-9809-EF09C8C53EE0}|thinger.MTHModels\\thinger.MTHModels.csproj|D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.mthmodels\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F59FD048-2B1B-4F35-9809-EF09C8C53EE0}|thinger.MTHModels\\thinger.MTHModels.csproj|D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.mthmodels\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F59FD048-2B1B-4F35-9809-EF09C8C53EE0}|thinger.MTHModels\\thinger.MTHModels.csproj|solutionrelative:thinger.mthmodels\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.mthproject\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.mthproject\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|solutionrelative:thinger.mthproject\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.mthproject\\frmmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.mthproject\\frmmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|solutionrelative:thinger.mthproject\\frmmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{376F5B70-4D97-4F36-BECA-3BEDBB0955BE}|thinger.MTHConttrolLib\\thinger.MTHConttrolLib.csproj|D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.mthconttrollib\\panelenhanced.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{376F5B70-4D97-4F36-BECA-3BEDBB0955BE}|thinger.MTHConttrolLib\\thinger.MTHConttrolLib.csproj|D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.mthconttrollib\\panelenhanced.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{376F5B70-4D97-4F36-BECA-3BEDBB0955BE}|thinger.MTHConttrolLib\\thinger.MTHConttrolLib.csproj|solutionrelative:thinger.mthconttrollib\\panelenhanced.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{376F5B70-4D97-4F36-BECA-3BEDBB0955BE}|thinger.MTHConttrolLib\\thinger.MTHConttrolLib.csproj|D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.mthconttrollib\\panelenhanced.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{376F5B70-4D97-4F36-BECA-3BEDBB0955BE}|thinger.MTHConttrolLib\\thinger.MTHConttrolLib.csproj|D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.mthconttrollib\\panelenhanced.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{376F5B70-4D97-4F36-BECA-3BEDBB0955BE}|thinger.MTHConttrolLib\\thinger.MTHConttrolLib.csproj|solutionrelative:thinger.mthconttrollib\\panelenhanced.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.mthproject\\frmmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.mthproject\\frmmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A42F032-AC94-4BFA-ADB3-3B79F76C276F}|thinger.MTHProject\\thinger.MTHProject.csproj|solutionrelative:thinger.mthproject\\frmmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{376F5B70-4D97-4F36-BECA-3BEDBB0955BE}|thinger.MTHConttrolLib\\thinger.MTHConttrolLib.csproj|D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.mthconttrollib\\checkboxex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{376F5B70-4D97-4F36-BECA-3BEDBB0955BE}|thinger.MTHConttrolLib\\thinger.MTHConttrolLib.csproj|D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.mthconttrollib\\checkboxex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{376F5B70-4D97-4F36-BECA-3BEDBB0955BE}|thinger.MTHConttrolLib\\thinger.MTHConttrolLib.csproj|solutionrelative:thinger.mthconttrollib\\checkboxex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{376F5B70-4D97-4F36-BECA-3BEDBB0955BE}|thinger.MTHConttrolLib\\thinger.MTHConttrolLib.csproj|D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.mthconttrollib\\checkboxex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{376F5B70-4D97-4F36-BECA-3BEDBB0955BE}|thinger.MTHConttrolLib\\thinger.MTHConttrolLib.csproj|D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.mthconttrollib\\checkboxex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{376F5B70-4D97-4F36-BECA-3BEDBB0955BE}|thinger.MTHConttrolLib\\thinger.MTHConttrolLib.csproj|solutionrelative:thinger.mthconttrollib\\checkboxex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{376F5B70-4D97-4F36-BECA-3BEDBB0955BE}|thinger.MTHConttrolLib\\thinger.MTHConttrolLib.csproj|D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.mthconttrollib\\dialplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{376F5B70-4D97-4F36-BECA-3BEDBB0955BE}|thinger.MTHConttrolLib\\thinger.MTHConttrolLib.csproj|D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.mthconttrollib\\dialplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{376F5B70-4D97-4F36-BECA-3BEDBB0955BE}|thinger.MTHConttrolLib\\thinger.MTHConttrolLib.csproj|solutionrelative:thinger.mthconttrollib\\dialplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{376F5B70-4D97-4F36-BECA-3BEDBB0955BE}|thinger.MTHConttrolLib\\thinger.MTHConttrolLib.csproj|D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.mthconttrollib\\dialplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{376F5B70-4D97-4F36-BECA-3BEDBB0955BE}|thinger.MTHConttrolLib\\thinger.MTHConttrolLib.csproj|D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.mthconttrollib\\dialplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{376F5B70-4D97-4F36-BECA-3BEDBB0955BE}|thinger.MTHConttrolLib\\thinger.MTHConttrolLib.csproj|solutionrelative:thinger.mthconttrollib\\dialplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{376F5B70-4D97-4F36-BECA-3BEDBB0955BE}|thinger.MTHConttrolLib\\thinger.MTHConttrolLib.csproj|D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.mthconttrollib\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{376F5B70-4D97-4F36-BECA-3BEDBB0955BE}|thinger.MTHConttrolLib\\thinger.MTHConttrolLib.csproj|D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.mthconttrollib\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{376F5B70-4D97-4F36-BECA-3BEDBB0955BE}|thinger.MTHConttrolLib\\thinger.MTHConttrolLib.csproj|solutionrelative:thinger.mthconttrollib\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -100,9 +100,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FrmUserManager.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHProject\\FrmUserManager.cs",
+              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHProject\\FrmUserManager.cs",
               "RelativeDocumentMoniker": "thinger.MTHProject\\FrmUserManager.cs",
-              "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHProject\\FrmUserManager.cs [\u8BBE\u8BA1]",
+              "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHProject\\FrmUserManager.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "thinger.MTHProject\\FrmUserManager.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T03:08:03.345Z",
@@ -112,82 +112,76 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FrmRecipe.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHProject\\FrmRecipe.cs",
+              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHProject\\FrmRecipe.cs",
               "RelativeDocumentMoniker": "thinger.MTHProject\\FrmRecipe.cs",
               "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHProject\\FrmRecipe.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "thinger.MTHProject\\FrmRecipe.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\THMMonitor\\thinger.MTHProject\\FrmRecipe.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T03:08:02.01Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2025-03-04T03:08:02.01Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "FrmParamSet.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHProject\\FrmParamSet.cs",
+              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHProject\\FrmParamSet.cs",
               "RelativeDocumentMoniker": "thinger.MTHProject\\FrmParamSet.cs",
               "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHProject\\FrmParamSet.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "thinger.MTHProject\\FrmParamSet.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\THMMonitor\\thinger.MTHProject\\FrmParamSet.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T03:08:01.254Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2025-03-04T03:08:01.254Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "FrmMain.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHProject\\FrmMain.cs",
+              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHProject\\FrmMain.cs",
               "RelativeDocumentMoniker": "thinger.MTHProject\\FrmMain.cs",
               "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHProject\\FrmMain.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "thinger.MTHProject\\FrmMain.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\THMMonitor\\thinger.MTHProject\\FrmMain.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T03:07:57.147Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2025-03-04T03:07:57.147Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "FrmAlarm.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHProject\\FrmAlarm.cs",
+              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHProject\\FrmAlarm.cs",
               "RelativeDocumentMoniker": "thinger.MTHProject\\FrmAlarm.cs",
               "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHProject\\FrmAlarm.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "thinger.MTHProject\\FrmAlarm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\THMMonitor\\thinger.MTHProject\\FrmAlarm.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T03:07:55.412Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2025-03-04T03:07:55.412Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "FrmHistory.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHProject\\FrmHistory.cs",
+              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHProject\\FrmHistory.cs",
               "RelativeDocumentMoniker": "thinger.MTHProject\\FrmHistory.cs",
               "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHProject\\FrmHistory.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "thinger.MTHProject\\FrmHistory.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\THMMonitor\\thinger.MTHProject\\FrmHistory.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T03:07:52.663Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2025-03-04T03:07:52.663Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Variable.cs",
-              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHModels\\Variable.cs",
+              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHModels\\Variable.cs",
               "RelativeDocumentMoniker": "thinger.MTHModels\\Variable.cs",
-              "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHModels\\Variable.cs",
+              "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHModels\\Variable.cs",
               "RelativeToolTip": "thinger.MTHModels\\Variable.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAUwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T02:57:14.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T02:57:14.828Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Group.cs",
-              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHModels\\Group.cs",
+              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHModels\\Group.cs",
               "RelativeDocumentMoniker": "thinger.MTHModels\\Group.cs",
-              "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHModels\\Group.cs",
+              "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHModels\\Group.cs",
               "RelativeToolTip": "thinger.MTHModels\\Group.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -197,9 +191,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Device.cs",
-              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHModels\\Device.cs",
+              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHModels\\Device.cs",
               "RelativeDocumentMoniker": "thinger.MTHModels\\Device.cs",
-              "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHModels\\Device.cs",
+              "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHModels\\Device.cs",
               "RelativeToolTip": "thinger.MTHModels\\Device.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -209,22 +203,21 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "FrmMain.cs",
-              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHProject\\FrmMain.cs",
+              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHProject\\FrmMain.cs",
               "RelativeDocumentMoniker": "thinger.MTHProject\\FrmMain.cs",
-              "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHProject\\FrmMain.cs",
+              "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHProject\\FrmMain.cs",
               "RelativeToolTip": "thinger.MTHProject\\FrmMain.cs",
               "ViewState": "AgIAAIcAAAAAAAAAAAAAAJoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T02:57:14.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T02:57:14.898Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "PanelEnhanced.cs",
-              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHConttrolLib\\PanelEnhanced.cs",
+              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHConttrolLib\\PanelEnhanced.cs",
               "RelativeDocumentMoniker": "thinger.MTHConttrolLib\\PanelEnhanced.cs",
-              "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHConttrolLib\\PanelEnhanced.cs",
+              "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHConttrolLib\\PanelEnhanced.cs",
               "RelativeToolTip": "thinger.MTHConttrolLib\\PanelEnhanced.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAqwCMAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
@@ -234,7 +227,7 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "PanelEnhanced.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHConttrolLib\\PanelEnhanced.cs",
+              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHConttrolLib\\PanelEnhanced.cs",
               "RelativeDocumentMoniker": "thinger.MTHConttrolLib\\PanelEnhanced.cs",
               "ToolTip": "C:\\Users\\longh\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\1.C#\\THMMonitor\\thinger.MTHConttrolLib\\PanelEnhanced.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
@@ -244,9 +237,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "FrmMonitor.cs",
-              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHProject\\FrmMonitor.cs",
+              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHProject\\FrmMonitor.cs",
               "RelativeDocumentMoniker": "thinger.MTHProject\\FrmMonitor.cs",
-              "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHProject\\FrmMonitor.cs",
+              "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHProject\\FrmMonitor.cs",
               "RelativeToolTip": "thinger.MTHProject\\FrmMonitor.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAqwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
@@ -256,7 +249,7 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "FrmMonitor.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHProject\\FrmMonitor.cs",
+              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHProject\\FrmMonitor.cs",
               "RelativeDocumentMoniker": "thinger.MTHProject\\FrmMonitor.cs",
               "ToolTip": "C:\\Users\\longh\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\1.C#\\THMMonitor\\thinger.MTHProject\\FrmMonitor.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
@@ -266,9 +259,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "CheckBoxEX.cs",
-              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHConttrolLib\\CheckBoxEX.cs",
+              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHConttrolLib\\CheckBoxEX.cs",
               "RelativeDocumentMoniker": "thinger.MTHConttrolLib\\CheckBoxEX.cs",
-              "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHConttrolLib\\CheckBoxEX.cs",
+              "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHConttrolLib\\CheckBoxEX.cs",
               "RelativeToolTip": "thinger.MTHConttrolLib\\CheckBoxEX.cs",
               "ViewState": "AQIAAF0AAAAAAAAAAAAAAHwAAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
@@ -278,7 +271,7 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "CheckBoxEX.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHConttrolLib\\CheckBoxEX.cs",
+              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHConttrolLib\\CheckBoxEX.cs",
               "RelativeDocumentMoniker": "thinger.MTHConttrolLib\\CheckBoxEX.cs",
               "ToolTip": "C:\\Users\\longh\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\1.C#\\THMMonitor\\thinger.MTHConttrolLib\\CheckBoxEX.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
@@ -288,9 +281,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Title.cs",
-              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHConttrolLib\\Title.cs",
+              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHConttrolLib\\Title.cs",
               "RelativeDocumentMoniker": "thinger.MTHConttrolLib\\Title.cs",
-              "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHConttrolLib\\Title.cs",
+              "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHConttrolLib\\Title.cs",
               "RelativeToolTip": "thinger.MTHConttrolLib\\Title.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
@@ -300,9 +293,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "DialPlate.cs",
-              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHConttrolLib\\DialPlate.cs",
+              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHConttrolLib\\DialPlate.cs",
               "RelativeDocumentMoniker": "thinger.MTHConttrolLib\\DialPlate.cs",
-              "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHConttrolLib\\DialPlate.cs",
+              "ToolTip": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHConttrolLib\\DialPlate.cs",
               "RelativeToolTip": "thinger.MTHConttrolLib\\DialPlate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
@@ -312,7 +305,7 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "DialPlate.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\THMMonitor\\thinger.MTHConttrolLib\\DialPlate.cs",
+              "DocumentMoniker": "D:\\Users\\wq825\\Desktop\\Project\\Winform-THMMonitor\\thinger.MTHConttrolLib\\DialPlate.cs",
               "RelativeDocumentMoniker": "thinger.MTHConttrolLib\\DialPlate.cs",
               "ToolTip": "C:\\Users\\longh\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\1.C#\\THMMonitor\\thinger.MTHConttrolLib\\DialPlate.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
